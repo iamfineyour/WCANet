@@ -21,4 +21,4 @@ Link: https://pan.baidu.com/s/1AEYLIN6tR0vpEmPIbMz09A?pwd=nxuk pin: nxuk.
 You can obtain our pre-trained model from the link: https://pan.baidu.com/s/1O4Wv-7MODvP9u0_QgPW3TQ?pwd=agv6 pin: agv6.
 
 ## Contact
-If you have any questions or would like to know more details, please feel free to contact me.(cy_bai@smail.sut.edu.cn)
+If you have any questions or discussions, please feel free to contact me.(cy_bai@smail.sut.edu.cn)
