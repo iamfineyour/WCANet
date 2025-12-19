@@ -3,7 +3,7 @@ import torch
 from datetime import datetime
 from torchvision.utils import make_grid
 from WCANet import WCANet
-from rgbt_dataset_KD import get_loader, test_dataset
+from rgbt_dataset import get_loader, test_dataset
 from utils import clip_gradient, adjust_lr
 from tensorboardX import SummaryWriter
 import logging
