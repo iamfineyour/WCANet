@@ -6,7 +6,7 @@ import py_sod_metrics
 from WCANet import WCANet
 import matplotlib.pyplot as plt
 from config import opt
-from rgbt_dataset_KD import test_dataset
+from rgbt_dataset import test_dataset
 from datetime import datetime
 import torch.nn.functional as F
 # --------------------- 主测试代码 ---------------------
