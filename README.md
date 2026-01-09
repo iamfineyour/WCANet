@@ -9,7 +9,7 @@ Both our training sets and test sets are based on public datasets, which can be 
 Download the pre-trained wavemlp-s from [wavemlp.](https://github.com/huawei-noah/Efficient-AI-Backbones/tree/master/wavemlp_pytorch)  
 Then, you should run test.py or train.py.
 ## Evaluate tools
-You can select one of the toolboxes to get the metrics https://github.com/DengPingFan/CODToolbox
+You can use this toolboxes to calculate performance metrics https://github.com/DengPingFan/CODToolbox.
 ## Results of WCANet
 You can access our salient prediction maps via the Baidu Netdisk link, including those from RGBT datasets (VT821, VT1000, VT5000, VI-RGBT1500) and four RGBD datasets.  
 Link: https://pan.baidu.com/s/1AEYLIN6tR0vpEmPIbMz09A?pwd=nxuk pin: nxuk.
