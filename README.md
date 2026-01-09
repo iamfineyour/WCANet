@@ -7,9 +7,10 @@ Environmental Setups: Python ≥ 3.7, Pytorch ≥ 1.6.0, Torchvision ≥0.7.0, p
 ## Preparation
 Both our training sets and test sets are based on public datasets, which can be searched for and downloaded online.  
 Download the pre-trained wavemlp-s from [wavemlp.](https://github.com/huawei-noah/Efficient-AI-Backbones/tree/master/wavemlp_pytorch)  
+You can load the SwinNet model for knowledge distillation training. Please refer to the specific configuration of https://github.com/liuzywen/SwinNet
 Then, you should run test.py or train.py.
 ## Evaluate tools
-You can use this toolboxes to calculate performance metrics https://github.com/DengPingFan/CODToolbox.
+You can use this toolbox to calculate performance metrics [COD Toolbox.](https://github.com/DengPingFan/CODToolbox)
 ## Results of WCANet
 You can access our salient prediction maps via the Baidu Netdisk link, including those from RGBT datasets (VT821, VT1000, VT5000, VI-RGBT1500) and four RGBD datasets.  
 Link: https://pan.baidu.com/s/1AEYLIN6tR0vpEmPIbMz09A?pwd=nxuk pin: nxuk.
