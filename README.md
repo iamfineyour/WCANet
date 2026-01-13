@@ -5,7 +5,7 @@ This is an official implementation for **“Wave-Driven Structure-Semantic Co-Al
 Environmental Setups: Python ≥ 3.7, Pytorch ≥ 1.6.0, Torchvision ≥0.7.0, pytorch_wavelets.
 
 ## Preparation
-Both our training sets and test sets are based on public datasets, which can be searched for and downloaded online.  
+Both our training sets and test sets are based on public datasets, which can be searched for and downloaded online.You can also obtain the data we used here: Baidu Netdisk link:https://pan.baidu.com/s/1RTkraZBNOS3mDt-KmLNIqw?pwd=mevr pin: mevr
 Download the pre-trained wavemlp-s from [wavemlp.](https://github.com/huawei-noah/Efficient-AI-Backbones/tree/master/wavemlp_pytorch)  
 You can load the SwinNet model for knowledge distillation training, please refer to the specific configuration of [SwinNet.](https://github.com/liuzywen/SwinNet)  
 Then, you should run test.py or train.py.
